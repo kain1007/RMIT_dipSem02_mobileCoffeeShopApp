@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Do - Coffee App A3</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="topping">TOPPINGS</string>
+    <string name="whipped">Whipped Cream</string>
+    <string name="choc">Chocolate</string>
+    <string name="order_head">Your Order Details</string>
+    <string name="email_button">EMAIL ORDER</string>
+    <string name="save_data_button">Save Data</string>
+    <string name="sales_report_button">Sales Report</string>
+</resources>
